@@ -1,8 +1,17 @@
-# Git Hands-on Lab Project
+# Simple Interest Calculator
 
-This repository contains the hands-on lab project for the Git and GitHub course, demonstrating proper repository setup with all required files and documentation.
+A bash script calculator that computes simple interest based on user input.
 
-## 📋 Project Overview
-This project serves as a practical exercise in GitHub repository management, including creating essential documentation files and a functional shell script.
+## 🧮 How It Works
+This calculator uses the simple interest formula:
 
-## 🗂️ Project Structure
+## 📝 Input Fields
+The script prompts for three inputs:
+1. **Principal**: The initial amount of money
+2. **Rate of Interest**: Annual interest rate in percentage
+3. **Time Period**: Duration in years
+
+## 🚀 Usage
+Run the script in your terminal:
+```bash
+./simple-interest.sh
